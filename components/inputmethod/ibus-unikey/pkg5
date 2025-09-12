@@ -1,0 +1,14 @@
+{
+    "dependencies": [
+        "library/desktop/gtk3",
+        "library/glib2",
+        "system/input-method/ibus",
+        "system/library",
+        "system/library/g++-14-runtime",
+        "system/library/gcc-14-runtime"
+    ],
+    "fmris": [
+        "system/input-method/ibus/unikey"
+    ],
+    "name": "ibus-unikey"
+}
